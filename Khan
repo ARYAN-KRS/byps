@@ -1,0 +1,2 @@
+import h64
+h64.method_crackfb()
